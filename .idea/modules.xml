@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/diveandconquer.iml" filepath="$PROJECT_DIR$/.idea/diveandconquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch_stacked_hourglass/.idea/pytorch_stacked_hourglass.iml" filepath="$PROJECT_DIR$/../pytorch_stacked_hourglass/.idea/pytorch_stacked_hourglass.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,12 @@
+ def Lcs(x : list,y : list) -> list:
+     m = x.lengh
+     y = y.length
+    output = ""
+    c = [ 0 for i in  range(y)]
+
+    for i in range(m):
+        for j in range(y):
+            if x[i] == y[j]:
+                c[j] = c[j] + 1
+                output =+ x[i]
+            elif  x[]
