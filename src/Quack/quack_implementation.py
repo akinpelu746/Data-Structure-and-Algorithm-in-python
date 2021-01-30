@@ -16,6 +16,7 @@ class quack:
                 self.length -= 1
             return self.stack1.pop()
         except:
+
             raise IndexError("Stack is empty")
 
     def pull(self):

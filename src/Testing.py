@@ -4,7 +4,6 @@ class Solution:
         self.lenght = len(A)
         self.count = 0
         first_list =
-        second_list =
         self.SumCount(SumList, 0)
 
         return self.count
