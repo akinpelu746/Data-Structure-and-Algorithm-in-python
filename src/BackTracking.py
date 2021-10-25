@@ -40,8 +40,6 @@
 
 # max_ =  Max_Chunks_To_Make_Sorted().init([2,1,3,4,4])
 import collections
-
-
 class Solution(object):
     def maxChunksToSorted(self, arr):
         count = collections.Counter()

@@ -48,7 +48,6 @@ class escape:
                     savedMove.append(newPath)
         return "Impossible"
 
-
 """ Todo 
 1.Implement for mutiple guard
 2.read and parse the file
